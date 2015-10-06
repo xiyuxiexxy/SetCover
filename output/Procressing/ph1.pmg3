@@ -1,0 +1,165 @@
+remove single meters: 
+
+remove subset poles: 
+
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+114 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+40 46 
+remove supset meters 
+54 55 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+30 31 32 35 
+remove supset meters 
+10 11 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+37 38 39 41 42 43 
+remove supset meters 
+48 53 56 70 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+0 1 2 8 48 52 
+remove supset meters 
+44 46 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+10 56 57 64 
+remove supset meters 
+27 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+72 89 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+85 91 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+74 75 86 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+76 
+remove supset meters 
+107 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+44 54 60 61 98 
+remove supset meters 
+66 101 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+80 95 107 
+remove supset meters 
+72 88 91 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+99 100 101 102 103 
+remove supset meters 
+100 102 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+105 106 111 112 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+94 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+4 5 6 9 58 59 
+remove supset meters 
+16 18 26 22 23 24 
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+11 17 19 65 69 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+14 22 23 
+remove supset meters 
+
+preprocessing I 0 , II  III 
+remove single meters: 
+
+remove subset poles: 
+12 15 16 18 20 66 
+remove supset meters 
+64 
+preprocessing I 0 , II  III 
+selected poles
+3 13 27 33 36 45 49 51 55 62 67 73 77 79 82 84 88 93 96 104 108 113 116 
+value 23, feasible? 1, cleanedup any poles? 0 
+clocks 10000 second 0.010000
